@@ -1,2 +1,8 @@
-# rock-paper-scissors
-A simple rock-paper-scissors game based on javascript
+# Rock-Paper-Scissors
+Rock Paper Scissors 
+
+Play 5 rounds against the computer.
+
+Player with maximum score wins.
+
+Simplay Javascript app on html.
