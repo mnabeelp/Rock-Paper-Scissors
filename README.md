@@ -5,4 +5,4 @@ Play 5 rounds against the computer.
 
 Player with maximum score wins.
 
-Simplay Javascript app on html.
+Simple Javascript app on html.
